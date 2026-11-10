@@ -1,0 +1,28 @@
+LOKASAM PWA — ANDROID & IPHONE
+
+PAKET INI SUDAH DISIAPKAN SEBAGAI PWA (Progressive Web App).
+Agar tombol instalasi dan GPS bekerja, file harus diunggah ke hosting HTTPS terlebih dahulu.
+File ZIP ini sendiri bukan APK dan bukan file IPA.
+
+CARA PALING MUDAH MENGONLINEKAN:
+1. Ekstrak ZIP ini.
+2. Unggah seluruh isi folder lokasam_app ke layanan hosting web statis yang menyediakan HTTPS (misalnya GitHub Pages, Netlify, atau Vercel).
+3. Buka alamat HTTPS hasil hosting pada HP.
+
+ANDROID (Chrome):
+- Buka alamat aplikasi.
+- Tekan menu titik tiga.
+- Pilih "Install app" atau "Add to Home screen".
+
+IPHONE (Safari):
+- Buka alamat aplikasi di Safari.
+- Tekan tombol Share.
+- Pilih "Add to Home Screen".
+- Tekan Add.
+
+CATATAN FITUR:
+- Laporan dan foto masih tersimpan lokal pada browser/perangkat.
+- Simulasi AI belum merupakan model AI sungguhan.
+- Belum ada sinkronisasi data antara HP pengguna, dashboard admin, dan petugas.
+- Peta memerlukan internet.
+- Untuk riset lapangan multi-pengguna, perlu backend/database cloud, model AI, dan integrasi resmi dengan instansi pengelola sampah.
